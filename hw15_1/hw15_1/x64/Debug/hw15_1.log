@@ -1,0 +1,4 @@
+﻿  hw15_1.cpp
+c:\users\6202-27\desktop\cpp\hw15_1\hw15_1\hw15_1.cpp(32): warning C4101: 'exception': unreferenced local variable
+  hw15_1.vcxproj -> C:\Users\6202-27\Desktop\cpp\hw15_1\x64\Debug\hw15_1.exe
+  hw15_1.vcxproj -> C:\Users\6202-27\Desktop\cpp\hw15_1\x64\Debug\hw15_1.pdb (Full PDB)

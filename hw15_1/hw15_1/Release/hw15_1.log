@@ -1,0 +1,7 @@
+﻿  hw15_1.cpp
+hw15_1.cpp(32): warning C4101: 'exception': unreferenced local variable
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hw15_1.vcxproj -> C:\Users\6202-27\Desktop\cpp\hw15_1\Release\hw15_1.exe
+  hw15_1.vcxproj -> C:\Users\6202-27\Desktop\cpp\hw15_1\Release\hw15_1.pdb (Full PDB)
